@@ -1,0 +1,2 @@
+1;Rene;Elizalde;12.2
+10;Jonathan;Ramirez;17.4
